@@ -1,0 +1,87 @@
+.row{
+    height: 80px;
+}
+
+.grande{
+    height: 450px;
+}
+
+.gris{
+    background: #CCCCCC;
+}
+
+.amarillo{
+    background: #FFFF02;
+}
+
+.celeste{
+    background: #00FFFF;
+}
+
+.verde{
+    background: #00FF02;
+}
+
+.rosa{
+    background: #FF00FF;
+}
+
+.rojo{
+    background: #FF0000;
+}
+
+.azul{
+    background: #0000FF;
+}
+
+.negro{
+    background: black;
+}
+
+.gris1{
+    background: #121212;
+}
+
+.gris2{
+    background: #262626;
+}
+
+.gris3{
+    background: #4B4B4B;
+}
+
+.gris4{
+    background: #666666;
+}
+
+.gris5{
+    background: #808080;
+}
+
+.gris6{
+    background: #9A9A9A;
+}
+
+.gris7{
+    background: #B4B4B4;
+}
+
+.gris8{
+    background: #CDCDCD;
+}
+
+.gris9{
+    background: #E6E6E6;
+}
+
+.gris10{
+    background: #F1F0F0;
+}
+
+.blanco{
+    background: white;
+}
+
+.gradient{
+    background-image: linear-gradient(to right, white, black);
+}
